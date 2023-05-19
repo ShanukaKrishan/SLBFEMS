@@ -1,5 +1,7 @@
 # SLBFEMS
 
+## Summary
+
 The core objective of the Sri Lanka Bureau of Foreign Employment (SLBFE) is to establish Sri Lanka as a premier destination for highly skilled human resources sought by the global market. As an agency, we facilitate the search for employment opportunities abroad for our citizens. Additionally, we offer valuable assistance to businesses in sourcing qualified personnel, ensuring the welfare of foreign workers, and resolving familial disputes.
 
 Recognizing the need for modernization, we aim to revitalize our existing website, which currently lacks up-to-date information. Furthermore, we are committed to opening our facilities to allow convenient access to the extensive data accumulated over the years. This initiative will cater to the requirements of businesses and other stakeholders, enabling them to benefit from the valuable insights and knowledge derived from our vast repository.
@@ -22,5 +24,5 @@ i.	Create new users.
 ii.	Delete users. 
 iii. 	Get users matched for the qualifications. 
 
-For more indept information regarding the mobile and web application check out the document attached.
+## For more indept information regarding the mobile and web application check out the document attached.
 
